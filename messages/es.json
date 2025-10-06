@@ -1,0 +1,237 @@
+{
+  "Header": {
+    "companyName": "SULaunchKit",
+    "languageSelector": "Idioma",
+    "english": "Inglés",
+    "spanish": "Español"
+  },
+  "header": {
+    "products": "Productos",
+    "services": "Servicios"
+  },
+  "Hero": {
+    "headline": "Soluciones Personalizadas Para Tu Negocio",
+    "subtext": "Diseñamos, desarrollamos y entregamos aplicaciones de software de alta calidad adaptadas a las necesidades y requisitos específicos de tu negocio.",
+    "ctaPrimary": "Comenzar Tu Proyecto",
+    "ctaSecondary": "Saber Más",
+    "scrollIndicator": "Desplázate para explorar"
+  },
+  "products": {
+    "title": "Nuestras Soluciones de Software",
+    "subtitle": "Desde sitios web impresionantes hasta herramientas de negocio poderosas, construimos software personalizado que crece con tu negocio y supera tus expectativas.",
+    "websites": {
+      "title": "Sitios Web Personalizados",
+      "description": "Sitios web hermosos y responsivos que muestran tu marca y generan resultados para tu negocio.",
+      "features": {
+        "responsive": "Diseño responsivo móvil-primero",
+        "seo": "Optimizado para motores de búsqueda",
+        "performance": "Rendimiento ultrarrápido",
+        "modern": "Diseño moderno y experiencia de usuario"
+      }
+    },
+    "crm": {
+      "title": "Sistemas CRM",
+      "description": "Herramientas poderosas de gestión de relaciones con clientes para optimizar tus ventas e interacciones con clientes.",
+      "features": {
+        "management": "Gestión completa de datos de clientes",
+        "automation": "Flujos de trabajo y seguimientos automatizados",
+        "analytics": "Reportes y análisis avanzados",
+        "integration": "Integraciones perfectas con terceros"
+      }
+    },
+    "ecommerce": {
+      "title": "Plataformas de E-commerce",
+      "description": "Tiendas en línea completas con pagos seguros, gestión de inventario y análisis de clientes.",
+      "features": {
+        "payments": "Procesamiento seguro de pagos",
+        "inventory": "Gestión avanzada de inventario",
+        "mobile": "Experiencia de compra optimizada para móvil",
+        "analytics": "Análisis detallados de ventas y clientes"
+      }
+    },
+    "cta": {
+      "subtitle": "¿Listo para comenzar tu próximo proyecto?",
+      "title": "Construyamos algo increíble juntos."
+    },
+    "status": {
+      "available": "Disponible",
+      "comingSoon": "Próximamente"
+    }
+  },
+  "services": {
+    "title": "Nuestros Servicios Principales",
+    "subtitle": "Desde el concepto hasta la finalización, proporcionamos soluciones tecnológicas integrales que impulsan tu negocio y superan las expectativas.",
+    "softwareDevelopment": {
+      "title": "Desarrollo de Software",
+      "description": "Soluciones de software personalizadas construidas con tecnologías de vanguardia para resolver tus desafíos únicos de negocio.",
+      "deliverables": {
+        "webApps": "Aplicaciones web personalizadas",
+        "mobileApps": "Desarrollo de aplicaciones móviles",
+        "apiSystems": "Sistemas API y backend",
+        "database": "Arquitectura de bases de datos"
+      }
+    },
+    "consulting": {
+      "title": "Consultoría Tecnológica",
+      "description": "Orientación estratégica en tecnología para optimizar tu infraestructura digital y acelerar el crecimiento empresarial.",
+      "deliverables": {
+        "strategy": "Planificación de estrategia tecnológica",
+        "transformation": "Transformación digital",
+        "optimization": "Optimización de procesos",
+        "audits": "Auditorías y revisiones técnicas"
+      }
+    },
+    "uiuxEngineering": {
+      "title": "Ingeniería UI/UX",
+      "description": "Diseño e ingeniería centrados en el usuario que crean experiencias digitales intuitivas, hermosas y de alto rendimiento.",
+      "deliverables": {
+        "uxDesign": "Diseño de experiencia de usuario",
+        "prototyping": "Prototipado interactivo",
+        "designSystems": "Creación de sistemas de diseño",
+        "usabilityTesting": "Pruebas de usabilidad y optimización"
+      }
+    },
+    "keyDeliverable": "Entregables Clave",
+    "cta": {
+      "subtitle": "¿Listo para transformar tu negocio con tecnología?",
+      "title": "Comienza Hoy"
+    }
+  },
+  "footer": {
+    "description": "Soluciones de software personalizadas que impulsan tu negocio con tecnología de vanguardia y artesanía experta.",
+    "contact": {
+      "title": "Contáctanos",
+      "email": "Correo",
+      "whatsapp": "WhatsApp"
+    },
+    "services": {
+      "title": "Servicios",
+      "development": "Desarrollo de Software",
+      "consulting": "Consultoría Tecnológica",
+      "uiux": "Ingeniería UI/UX"
+    },
+    "products": {
+      "title": "Productos",
+      "websites": "Sitios Web Profesionales",
+      "crm": "Sistemas CRM",
+      "ecommerce": "Plataformas E-commerce"
+    },
+    "legal": {
+      "title": "Legal",
+      "privacy": "Política de Privacidad",
+      "terms": "Términos de Servicio"
+    },
+    "copyright": "© {year} SULaunchKit. Todos los derechos reservados.",
+    "rights": "Construido con pasión en Guatemala. Empoderando empresas en todo el mundo con soluciones tecnológicas innovadoras."
+  },
+  "privacyPolicy": {
+    "title": "Política de Privacidad",
+    "subtitle": "Cómo recopilamos, usamos y protegemos tus datos.",
+    "overview": {
+      "title": "Visión General",
+      "content": "SULaunchKit (\"nosotros\") ofrece servicios de desarrollo de software. Recopilamos cierta información para operar y mejorar nuestros productos y cumplir obligaciones legales. Priorizamos la minimización de datos y el uso de datos agregados o seudonimizados cuando es posible."
+    },
+    "dataCollection": {
+      "title": "Recopilación de Datos",
+      "intro": "Solo recopilamos los datos necesarios para ofrecer nuestros servicios y mejorar tu experiencia.",
+      "personal": "Información personal que usted proporciona (nombre, empresa, correo, teléfono) al contactarnos o crear una cuenta.",
+      "usage": "Datos de uso del producto y analíticas (uso de funciones, métricas de llamadas a la API, informes de errores) usados para mejorar confiabilidad y rendimiento.",
+      "technical": "Datos técnicos (dirección IP, información del dispositivo y navegador, cookies y registros) necesarios para seguridad, depuración y análisis."
+    },
+    "dataUsage": {
+      "title": "Cómo Usamos los Datos",
+      "content": "Usamos los datos recopilados para operar el servicio, brindar soporte al cliente, asegurar nuestros sistemas, facturar a clientes y medir el rendimiento del producto. No vendemos información personal a terceros."
+    },
+    "sharing": {
+      "title": "Compartir y Terceros",
+      "content": "Compartimos datos con proveedores de servicios de confianza (hosting, analíticas, procesadores de pago) bajo contratos que limitan su uso. Podremos compartir datos cuando la ley lo requiera o para proteger nuestros derechos."
+    },
+    "security": {
+      "title": "Seguridad",
+      "content": "Implementamos salvaguardas técnicas, administrativas y físicas de estándar industrial para proteger la información personal, incluyendo TLS para datos en tránsito y almacenamiento cifrado para campos sensibles cuando procede. Ningún sistema es completamente seguro; reporta preocupaciones a nuestro contacto de seguridad."
+    },
+    "retention": {
+      "title": "Conservación de Datos",
+      "content": "Conservamos información personal solo mientras sea necesario para prestar servicios, cumplir obligaciones legales y resolver disputas. Las analíticas agregadas pueden conservarse por más tiempo para mejorar el producto."
+    },
+    "rights": {
+      "title": "Tus Derechos",
+      "content": "Dependiendo de tu jurisdicción, puedes tener derechos para acceder, rectificar, eliminar o exportar tus datos personales. Contáctanos para ejercer estos derechos; responderemos según la ley aplicable."
+    },
+    "contact": {
+      "title": "Contacto",
+      "content": "Para preguntas sobre privacidad o para ejercer derechos de datos, escribe a hello@sulaunchkit.com o usa el formulario de contacto en nuestro sitio."
+    }
+  },
+  "termsOfService": {
+    "title": "Términos de Servicio",
+    "subtitle": "Acuerdo para usar nuestros servicios.",
+    "acceptance": {
+      "title": "Aceptación de Términos",
+      "content": "Al acceder y usar los servicios de SULaunchKit, aceptas y acuerdas estar sujeto a los términos y disposiciones de este acuerdo."
+    },
+    "services": {
+      "title": "Descripción del Servicio",
+      "content": "SULaunchKit proporciona servicios de desarrollo de software personalizado, incluyendo pero no limitado a aplicaciones web, aplicaciones móviles y consultoría tecnológica."
+    },
+    "responsibilities": {
+      "title": "Responsabilidades del Usuario",
+      "intro": "Como usuario de nuestros servicios, acuerdas:",
+      "legal": "Usar nuestros servicios solo para propósitos legales y de acuerdo con estos Términos.",
+      "accurate": "Proporcionar información precisa y completa cuando se solicite.",
+      "security": "Mantener la seguridad de tu cuenta y notificarnos inmediatamente de cualquier uso no autorizado.",
+      "prohibited": "No participar en ninguna actividad que interfiera o interrumpa nuestros servicios."
+    },
+    "intellectualProperty": {
+      "title": "Propiedad Intelectual",
+      "content": "El servicio y su contenido original, características y funcionalidad son y seguirán siendo propiedad exclusiva de SULaunchKit y sus licenciantes. Las soluciones personalizadas desarrolladas para clientes seguirán los términos de propiedad especificados en acuerdos de servicio individuales."
+    },
+    "liability": {
+      "title": "Limitación de Responsabilidad",
+      "content": "En ningún caso SULaunchKit, ni sus directores, empleados, socios, agentes, proveedores o afiliados, serán responsables de daños indirectos, incidentales, especiales, consecuentes o punitivos, incluyendo sin limitación, pérdida de beneficios, datos, uso, buena voluntad u otras pérdidas intangibles."
+    },
+    "termination": {
+      "title": "Terminación",
+      "content": "Podemos terminar o suspender el acceso inmediatamente, sin previo aviso o responsabilidad, por cualquier razón, incluyendo sin limitación si incumples los Términos."
+    },
+    "changes": {
+      "title": "Cambios a los Términos",
+      "content": "Nos reservamos el derecho, a nuestra sola discreción, de modificar o reemplazar estos Términos en cualquier momento. Si una revisión es material, trataremos de proporcionar al menos 30 días de aviso antes de que cualquier término nuevo entre en vigencia."
+    },
+    "contact": {
+      "title": "Información de Contacto",
+      "content": "Si tienes alguna pregunta sobre estos Términos de Servicio, por favor contáctanos en hello@sulaunchkit.com."
+    }
+  },
+  "HomePage": {
+    "title": "¡Hola mundo!",
+    "description": "Esta es una prueba de next-intl con detección de idioma basada en cookies.",
+    "currentLanguage": "Idioma actual: Español"
+  },
+  "seo": {
+    "title": "Desarrollo de Software Personalizado Costa Rica | SULaunchKit",
+    "description": "Desarrollo profesional de software personalizado en Costa Rica. Aplicaciones web, apps móviles, sistemas CRM y consultoría tecnológica. Transforma tu negocio con soluciones de vanguardia.",
+    "keywords": "desarrollo de software personalizado, Costa Rica, aplicaciones web, apps móviles, sistemas CRM, consultoría tecnológica, soluciones de software",
+    "openGraph": {
+      "title": "SULaunchKit - Desarrollo de Software Personalizado Costa Rica",
+      "description": "Transforma tu negocio con soluciones profesionales de software personalizado. Aplicaciones web, desarrollo móvil y consultoría tecnológica en Costa Rica.",
+      "siteName": "SULaunchKit"
+    },
+    "jsonLd": {
+      "organizationName": "SULaunchKit",
+      "description": "Empresa de desarrollo de software personalizado especializada en aplicaciones web, apps móviles y consultoría tecnológica en Costa Rica",
+      "address": {
+        "country": "Costa Rica",
+        "region": "San José"
+      },
+      "services": [
+        "Desarrollo de Software Personalizado",
+        "Desarrollo de Aplicaciones Web",
+        "Desarrollo de Aplicaciones Móviles",
+        "Consultoría Tecnológica",
+        "Diseño UI/UX",
+        "Sistemas CRM"
+      ]
+    }
+  }
+}
